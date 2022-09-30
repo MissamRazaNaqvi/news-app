@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Afghanistan earthquake kills at least 1000, more trapped in rubble - Reuters",
+            "description": "The death toll from an earthquake in Afghanistan on Wednesday hit 1,000, disaster management officials said, with more than 600 injured and the toll expected to grow as information trickles in from remote mountain villages.",
+            "url": "https://www.reuters.com/world/asia-pacific/earthquake-magnitude-61-shakes-afghanistan-pakistan-usgs-2022-06-21/",
+            "urlToImage": "https://www.reuters.com/resizer/vMsEWWdugRbLF38DBGnBP6Az1Pc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VZ5HPNQVSRKNFB4XCYIFBX47JY.jpg",
+            "publishedAt": "2022-06-22T16:39:00Z",
+            "content": "KABUL, June 22 (Reuters) - The death toll from an earthquake in Afghanistan on Wednesday hit 1,000, disaster management officials said, with more than 600 injured and the toll expected to grow as inf… [+4701 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tina Burnside and Dakin Andone, CNN",
+            "title": "Georgia Supreme Court overturns Justin Ross Harris' murder conviction in his son's hot-car death - CNN",
+            "description": "Georgia's highest court has overturned the murder conviction of Justin Ross Harris, the Cobb County father sentenced to life without parole for the 2014 hot car death of his 22-month-old son, Cooper.",
+            "url": "https://www.cnn.com/2022/06/22/us/hot-car-death-georgia-supreme-court/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220622083444-justin-ross-harris-2016-court-file-super-tease.jpg",
+            "publishedAt": "2022-06-22T16:35:00Z",
+            "content": "(CNN)Georgia's highest court has overturned the murder conviction of Justin Ross Harris, theCobb County father sentenced to life without parole for the 2014 hot car death of his 22-month-old son, Coo… [+3936 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian sport",
+            "title": "Baltimore Ravens’ Jaylon Ferguson dies at 26: ‘He was a wonderful young man’ - The Guardian",
+            "description": "Baltimore Ravens linebacker Jaylon Ferguson has died at the age of 26, the team confirmed on Wednesday. The Ravens did not give a cause of death",
+            "url": "https://amp.theguardian.com/sport/2022/jun/22/jaylon-ferguson-baltimore-ravens-linebacker-dies-nfl-football",
+            "urlToImage": null,
+            "publishedAt": "2022-06-22T16:10:00Z",
+            "content": "Baltimore Ravens<ul><li>Linebacker held FBS record for career sacks with 48</li><li>NFL has been hit by a number of premature deaths recently</li></ul>\r\nWed 22 Jun 2022 09.33 EDT\r\nBaltimore Ravens li… [+2784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Emma G. Fitzsimmons, Kimiko de Freytas-Tamura, Téa Kvetenadze",
+            "title": "Covid-19 Vaccines for Children and Travel News: Live Updates - The New York Times",
+            "description": "In a city that was once the center of Covid-19, many parents have been eager to vaccinate their youngest children. The C.D.C. endorsed the shots over the weekend.",
+            "url": "https://www.nytimes.com/live/2022/06/22/world/covid-19-mandates-vaccine-cases",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/22/multimedia/live-blog-20220622-covid-19-PROMO12pm/22virus-briefing-nyclede-facebookJumbo.jpg",
+            "publishedAt": "2022-06-22T16:04:36Z",
+            "content": "Cara Bookman, 2, gets a shot of the Moderna coronavirus vaccine on her leg as her father, Max Bookman, holds her at a vaccine site for children in Times Square on Wednesday.Credit...Brittainy Newman … [+4838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Zolan Kanno-Youngs, Lydia DePillis",
+            "title": "Biden Will Push Congress for Three-Month Gas Tax Holiday - The New York Times",
+            "description": "Vulnerable Democrats have championed the move ahead of the midterm elections, but experts remain skeptical that suspending the federal tax would benefit consumers much.",
+            "url": "https://www.nytimes.com/2022/06/22/us/politics/biden-gas-tax-holiday.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/22/us/politics/22dc-gastax1/22dc-gastax1-facebookJumbo.jpg",
+            "publishedAt": "2022-06-22T15:55:21Z",
+            "content": "What expenses are we going to cut out? he said, adding that the proposal to suspend the tax shows that Democrats know theyre in deep trouble.\r\nMr. Biden, who has publicly discussed the idea of a tax … [+884 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celina Tebor, Cady Stanton",
+            "title": "Ukraine conducts airstrike attack on Snake Island: Updates - USA TODAY",
+            "description": "Ukrainian forces say they launched airstrike attacks on Snake Island in the Black Sea. Latest updates.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/06/22/ukraine-russia-invasion-live-updates/7696471001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/22/USAT/d35bc9ae-3228-422a-b0d4-18e7685e6878-AP_Russia_Ukraine_War_12.jpg?crop=1023,576,x0,y0&width=1023&height=576&format=pjpg&auto=webp",
+            "publishedAt": "2022-06-22T15:45:00Z",
+            "content": "Ukrainian forces claimed late Tuesday they launched airstrike attacks on Snake Island in the Black Sea that resulted in \"significant losses\" to Russian forces.\r\nThe Ukrainian militarys southern opera… [+5660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Karen Gilchrist",
+            "title": "National incident declared after UK health officials detect polio virus in London sewage samples - CNBC",
+            "description": "U.K. health authorities have said they are urgently investigating a rare polio virus outbreak in sewage samples in London.",
+            "url": "https://www.cnbc.com/2022/06/22/ukhsa-detects-polio-virus-in-london-sewage-declares-national-incident.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107079050-1655908742270-gettyimages-1164618219-urn_newsml_dpa_com_20090101_190829-99-661655-2.jpeg?v=1655908812&w=1920&h=1080",
+            "publishedAt": "2022-06-22T15:19:01Z",
+            "content": "U.K. health authorities have said they are urgently investigating a rare polio virus discovery in sewage samples in London, potentially putting Britain's polio-free status at risk for the first time … [+4384 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow Jones Rises, Techs Lead As Fed Chief Powell Minimizes Recession Risks - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtZmFsbC1mZWQtY2hpZWYtcG93ZWxsLXRlc3RpZmllcy1hcy1yZWNlc3Npb24tZmVhcnMtZ3Jvdy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-06-22T14:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrea Salcedo",
+            "title": "South Dakota AG Jason Ravnsborg impeached by Senate, removed from seat - The Washington Post",
+            "description": "The sentencing also means Ravnsborg — the first South Dakota official to ever be impeached — is banned from ever running for office.",
+            "url": "https://www.washingtonpost.com/nation/2022/06/22/ravnsborg-south-dakota-impeached/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDDOHGHRUEI6ZLAWR67XDFGNPA.jpg&w=1440",
+            "publishedAt": "2022-06-22T14:22:00Z",
+            "content": "Placeholder while article actions load\r\nOn Tuesday, two months after the South Dakota House of Representatives voted to impeach Attorney General Jason Ravnsborg (R) for fatally running over a man and… [+4766 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. tech companies yank job offers, leaving college grads scrambling - Reuters",
+            "description": "One by one, over the last week of May, Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> rang up some members of its incoming class of new hires who had recently graduated from college and revoked the job offers in 15…",
+            "url": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
+            "urlToImage": "https://www.reuters.com/resizer/rcFpdozku79vY6O-7syXi-ADKs0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4DFH5PKN7FPUBIIQK5U4YKKEQQ.jpg",
+            "publishedAt": "2022-06-22T14:21:00Z",
+            "content": "June 22 (Reuters) - One by one, over the last week of May, Twitter Inc (TWTR.N) rang up some members of its incoming class of new hires who had recently graduated from college and revoked the job off… [+6073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jenny Vrentas",
+            "title": "Panel Finds Daniel Snyder Interfered With Sexual Harassment Investigation - The New York Times",
+            "description": "In a memo, a Congressional panel said it found evidence that the Washington Commanders owner conducted a “shadow investigation” of accusers.",
+            "url": "https://www.nytimes.com/2022/06/22/sports/football/dan-snyder-harassment-news-congress.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/22/sports/22nfl-congress-1/22nfl-congress-1-facebookJumbo.jpg",
+            "publishedAt": "2022-06-22T14:13:14Z",
+            "content": "To that end, Snyder and his lawyers also gathered thousands of emails from Bruce Allen, who was a Commanders executive from 2009 to 2019, in an effort to blame Allen for the creation of a toxic work … [+1356 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jennifer Maloney",
+            "title": "FDA to Order Juul E-Cigarettes off US Market - WSJ - The Wall Street Journal",
+            "description": "The Food and Drug Administration is preparing to order Juul Labs to take its e-cigarettes off the U.S. market, following a nearly two-year review of data presented by the vaping company.",
+            "url": "https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689",
+            "urlToImage": "https://images.wsj.net/im-568851/social",
+            "publishedAt": "2022-06-22T14:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "13-Inch MacBook Pro With M2 Chip Review - MacRumors",
+            "description": "The new 13-inch MacBook Pro with a faster M2 chip launches this Friday. Ahead of time, early reviews of the notebook have been shared by some YouTube...",
+            "url": "https://www.macrumors.com/review/13-inch-macbook-pro-with-m2-chip/",
+            "urlToImage": "https://images.macrumors.com/t/RkIt98vbFYIJ48pLvsDvXqlf36o=/2316x/article-new/2022/02/13-inch-macbook-pro-m2-mock-feature-2.jpg",
+            "publishedAt": "2022-06-22T13:17:56Z",
+            "content": "The new 13-inch MacBook Pro with a faster M2 chip launches this Friday. Ahead of time, early reviews of the notebook have been shared by some YouTube channels and media outlets, offering a hands-on l… [+4033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "AMD FidelityFX Super Resolution 2.0 is now open source - VideoCardz.com",
+            "description": "AMD publishes FidelityFX Super Resolution 2 source code Today marks a year since gamers could try out AMD FidelityFX Super Resolution technology for themselves with our spatial upscaler – FSR 1. With the introduction of FSR 2, our temporal upscaling solution …",
+            "url": "https://videocardz.com/press-release/amd-fidelityfx-super-resolution-2-0-is-now-open-source",
+            "urlToImage": "https://cdn.videocardz.com/1/2022/03/AMD-FSR2-HERO.jpg",
+            "publishedAt": "2022-06-22T13:12:00Z",
+            "content": "« press release »\r\nToday marks a year since gamers could try out AMD FidelityFX Super Resolution technology for themselves with our spatial upscaler FSR 1. With the introduction of FSR 2, our tempora… [+2035 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed, CNN",
+            "title": "How abortion bans could be enforced if Roe v. Wade is reversed - CNN",
+            "description": "If the Supreme Court issues a ruling that would allow states to ban abortion, as is expected in the coming days, such a decision would raise new questions about how authorities would enforce such bans and whether the anti-abortion movement would stick to its …",
+            "url": "https://www.cnn.com/2022/06/22/politics/roe-abortion-prosecution-tactics/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220514231428-01-abortion-protest-seattle-super-tease.jpg",
+            "publishedAt": "2022-06-22T13:02:00Z",
+            "content": "(CNN)If the Supreme Court issues a ruling that would allow states to ban abortion, as is expected in the coming days, such a decision would raise new questions about how authorities would enforce suc… [+10492 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Ikea's new virtual design tool deletes your furniture and replaces it with Ikea's - The Verge",
+            "description": "Ikea is launching a new virtual design tool that’s designed to make it easier to imagine how Ikea’s furniture might look in your home. Ikea Kreativ includes a Scene Scanner feature that lets you scan a room using Ikea’s app.",
+            "url": "https://www.theverge.com/2022/6/22/23178125/ikea-kreativ-room-scanner-ios-app-virtual-furniture-showroom",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ulBytS6XbvM_RCSZ5Vxkku8_l3A=/0x90:2152x1217/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23643794/web_design_own_room.jpg",
+            "publishedAt": "2022-06-22T13:00:00Z",
+            "content": "To help visualize how the furniture could look in your home\r\nVirtual furniture can be placed in an image of your room. \r\nImage: Ikea\r\nIkea is launching a new virtual design tool today that can make i… [+3788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroitbadboys.com"
+            },
+            "author": "Lazarus Jackson",
+            "title": "5 Bold Predictions for the 2022 NBA Draft - Detroit Bad Boys",
+            "description": "Let’s fire off some hot takes",
+            "url": "https://www.detroitbadboys.com/2022/6/22/23176717/5-bold-predictions-for-the-2022-nba-draft-jaden-ivey-john-collins-mark-williams",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/jMntrtDkmS9ok-9hW1KqgTIEmOA=/0x0:5737x3004/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23641649/1386794858.jpg",
+            "publishedAt": "2022-06-22T13:00:00Z",
+            "content": "The 2022 NBA Draft is almost upon us, and I cant wait for it to be over so I can just know whos gonna be on the court for the Detroit Pistons in the Las Vegas Summer League. The draft isnt here YET, … [+5337 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Fox, CNN",
+            "title": "Here's what's in the bipartisan gun safety bill - CNN",
+            "description": "The Senate's compromise legislation on gun safety unveiled on Tuesday, potentially the most significant new federal gun safety measure in decades, includes money for school safety, mental health, state crisis intervention programs and incentives for states to…",
+            "url": "https://www.cnn.com/2022/06/21/politics/whats-in-senate-gun-reform-bill/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220612121441-capitol-building-0609-super-tease.jpg",
+            "publishedAt": "2022-06-22T12:59:00Z",
+            "content": "Washington (CNN)The Senate's compromise legislation on gun safety unveiled on Tuesday, potentially the most significant new federal gun safety measure in decades, includes money for school safety, me… [+3778 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Nothing's Phone 1 isn't coming to the US - The Verge",
+            "description": "Nothing has confirmed that its debut smartphone, the Phone 1, won’t be getting a widespread release in the US or Canada. Instead, it’s focusing on releasing the phone in Europe.",
+            "url": "https://www.theverge.com/2022/6/22/23178221/nothings-phone-1-usa-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/U38tuuBYNJ_sSnFcAq2AFRbs21c=/0x446:6222x3704/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23632382/BASEL__SWITZERLAND___JUNE_15__The_Nothing_phone__1__at_Art_Basel_2022_on_June_15__2022_in_Basel__Switzerland.__Photo_by_Sanjeev_Velmurugan_Getty_Images_for_Nothing_.jpg",
+            "publishedAt": "2022-06-22T12:23:14Z",
+            "content": "Its focusing on Europe for now\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThe back of the Nothing Phone 1.\r\nImage: Nothing\r\nNothing has confi… [+1904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Ellen Durney",
+            "title": "Kim Kardashian Hilariously Scolded Her Misbehaving Sons Midway Through A TV Interview Hours After They Chaotically Crashed Her Livestream And Told Viewers They Hated Them - BuzzFeed News",
+            "description": "“My two boys are here and I hear them making so much noise … Don't mess this up. Come on.”",
+            "url": "https://www.buzzfeednews.com/article/ellendurney/kim-kardashian-scolded-kids-on-tv-after-chaotic-live",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/22/11/enhanced/acbea9f2c073/original-4108-1655898706-31.jpg?crop=1244:651;5,27%26downsize=1250:*",
+            "publishedAt": "2022-06-22T12:10:05Z",
+            "content": null
+        }
+    ]
+}
